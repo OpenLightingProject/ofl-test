@@ -1,0 +1,188 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Quad Phase HP",
+  "categories": ["Flower"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2018-04-09",
+    "lastModifyDate": "2018-04-09",
+    "importPlugin": {
+      "plugin": "qlcplus",
+      "date": "2018-04-09",
+      "comment": "created by OFL – https://open-fixture-library.herokuapp.com/american-dj/quad-phase-hp (version 0.5.0)"
+    }
+  },
+  "physical": {
+    "dimensions": [198, 279, 312],
+    "weight": 4,
+    "power": 64,
+    "DMXconnector": "3-pin",
+    "bulb": {
+      "type": "LED"
+    },
+    "lens": {
+      "name": "Other",
+      "degreesMinMax": [65, 65]
+    },
+    "focus": {
+      "type": "Fixed"
+    }
+  },
+  "availableChannels": {
+    "Color": {
+      "type": "Multi-Color",
+      "capabilities": [
+        {
+          "range": [0, 16],
+          "name": "Red",
+          "color": "#ff0000"
+        },
+        {
+          "range": [17, 33],
+          "name": "Green",
+          "color": "#00ff00"
+        },
+        {
+          "range": [34, 50],
+          "name": "Blue",
+          "color": "#0000ff"
+        },
+        {
+          "range": [51, 67],
+          "name": "White",
+          "color": "#eeeeee"
+        },
+        {
+          "range": [68, 84],
+          "name": "Red-Green",
+          "color": "#ff0000",
+          "color2": "#00ff00"
+        },
+        {
+          "range": [85, 101],
+          "name": "Red-Blue",
+          "color": "#ff0000",
+          "color2": "#0000ff"
+        },
+        {
+          "range": [102, 118],
+          "name": "Red-White",
+          "color": "#ff0000",
+          "color2": "#ffffff"
+        },
+        {
+          "range": [119, 135],
+          "name": "Green-Blue",
+          "color": "#00ff00",
+          "color2": "#0000ff"
+        },
+        {
+          "range": [136, 152],
+          "name": "Green-White",
+          "color": "#00ff00",
+          "color2": "#ffffff"
+        },
+        {
+          "range": [153, 169],
+          "name": "Blue-White",
+          "color": "#0000ff",
+          "color2": "#ffffff"
+        },
+        {
+          "range": [170, 186],
+          "name": "Red-Green-Blue",
+          "color": "#dddddd"
+        },
+        {
+          "range": [187, 203],
+          "name": "Red-Green-White",
+          "color": "#ffff00",
+          "color2": "#ffffff"
+        },
+        {
+          "range": [204, 220],
+          "name": "Red-Blue-White",
+          "color": "#ff00ff",
+          "color2": "#ffffff"
+        },
+        {
+          "range": [221, 237],
+          "name": "Green-Blue-White",
+          "color": "#00ffff",
+          "color2": "#ffffff"
+        },
+        {
+          "range": [238, 255],
+          "name": "Red-Green-Blue-White",
+          "color": "#ffffff"
+        }
+      ]
+    },
+    "Rotation": {
+      "type": "Speed",
+      "capabilities": [
+        {
+          "range": [0, 9],
+          "name": "No Rotation"
+        },
+        {
+          "range": [10, 120],
+          "name": "CW fast-slow"
+        },
+        {
+          "range": [121, 134],
+          "name": "No Rotation"
+        },
+        {
+          "range": [135, 245],
+          "name": "CCW slow-fast"
+        },
+        {
+          "range": [246, 249],
+          "name": "No Rotation"
+        },
+        {
+          "range": [250, 255],
+          "name": "Sound"
+        }
+      ]
+    },
+    "Strobe": {
+      "type": "Strobe",
+      "capabilities": [
+        {
+          "range": [0, 0],
+          "name": "No Strobe"
+        },
+        {
+          "range": [1, 255],
+          "name": "Strobe slow-fast"
+        }
+      ]
+    },
+    "Shutter": {
+      "type": "Shutter",
+      "capabilities": [
+        {
+          "range": [0, 15],
+          "name": "Shutter closed"
+        },
+        {
+          "range": [16, 255],
+          "name": "Shutter open"
+        }
+      ]
+    }
+  },
+  "modes": [
+    {
+      "name": "4-channel",
+      "channels": [
+        "Color",
+        "Rotation",
+        "Strobe",
+        "Shutter"
+      ]
+    }
+  ]
+}
