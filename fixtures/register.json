@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "american-dj/quad-phase-hp": {
+      "name": "Quad Phase HP",
+      "lastModifyDate": "2018-04-09",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "american-dj": [
+      "quad-phase-hp"
+    ]
+  },
+  "categories": {
+    "Flower": [
+      "american-dj/quad-phase-hp"
+    ]
+  },
+  "contributors": {
+    "Flo Edelmann": [
+      "american-dj/quad-phase-hp"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "american-dj/quad-phase-hp"
+  ]
+}
