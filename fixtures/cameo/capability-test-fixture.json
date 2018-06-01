@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Capability Test Fixture",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Test user"],
+    "createDate": "2018-06-01",
+    "lastModifyDate": "2018-06-01"
+  },
+  "availableChannels": {
+    "Test channel": {
+      "capabilities": [
+        {
+          "dmxRange": [
+            0,
+            27
+          ],
+          "type": "ShutterStrobe",
+          "shutterEffect": "RampDown",
+          "speedStart": "slow",
+          "speedEnd": "fast"
+        },
+        {
+          "dmxRange": [
+            28,
+            49
+          ],
+          "type": "Effect",
+          "effectName": "Blub",
+          "soundControlled": true,
+          "effectIntensityStart": "low",
+          "effectIntensityEnd": "high",
+          "speed": "fast",
+          "duration": "500ms",
+          "soundSensitivityStart": "off",
+          "soundSensitivityEnd": "high"
+        },
+        {
+          "dmxRange": [
+            50,
+            255
+          ],
+          "type": "GoboStencilRotation",
+          "angleStart": "0deg",
+          "angleEnd": "360deg"
+        }
+      ]
+    }
+  },
+  "modes": [
+    {
+      "name": "Test",
+      "channels": [
+        "Test channel"
+      ]
+    }
+  ]
+}
