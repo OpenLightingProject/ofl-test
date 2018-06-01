@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "cameo/capability-test-fixture": {
+      "name": "Capability Test Fixture",
+      "lastModifyDate": "2018-06-01",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "cameo": [
+      "capability-test-fixture"
+    ]
+  },
+  "categories": {
+    "Other": [
+      "cameo/capability-test-fixture"
+    ]
+  },
+  "contributors": {
+    "Test user": [
+      "cameo/capability-test-fixture"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "cameo/capability-test-fixture"
+  ]
+}
