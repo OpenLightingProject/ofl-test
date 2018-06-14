@@ -1,0 +1,34 @@
+{
+  "filesystem": {
+    "glp/jdc1": {
+      "name": "JDC1",
+      "lastModifyDate": "2018-06-14",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "glp": [
+      "jdc1"
+    ]
+  },
+  "categories": {
+    "Blinder": [
+      "glp/jdc1"
+    ],
+    "Color Changer": [
+      "glp/jdc1"
+    ],
+    "Strobe": [
+      "glp/jdc1"
+    ]
+  },
+  "contributors": {
+    "Flo Edelmann": [
+      "glp/jdc1"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "glp/jdc1"
+  ]
+}
