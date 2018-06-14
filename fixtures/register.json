@@ -1,0 +1,31 @@
+{
+  "filesystem": {
+    "elation/acl-360-roller": {
+      "name": "ACL 360 Roller",
+      "lastModifyDate": "2018-06-14",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "elation": [
+      "acl-360-roller"
+    ]
+  },
+  "categories": {
+    "Color Changer": [
+      "elation/acl-360-roller"
+    ],
+    "Moving Head": [
+      "elation/acl-360-roller"
+    ]
+  },
+  "contributors": {
+    "Felix Edelmann": [
+      "elation/acl-360-roller"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "elation/acl-360-roller"
+  ]
+}
