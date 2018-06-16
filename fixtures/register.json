@@ -1,0 +1,31 @@
+{
+  "filesystem": {
+    "boomtonedj/xtrem-led": {
+      "name": "Xtrem LED",
+      "lastModifyDate": "2018-06-16",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "boomtonedj": [
+      "xtrem-led"
+    ]
+  },
+  "categories": {
+    "Color Changer": [
+      "boomtonedj/xtrem-led"
+    ],
+    "Flower": [
+      "boomtonedj/xtrem-led"
+    ]
+  },
+  "contributors": {
+    "Flo Edelmann": [
+      "boomtonedj/xtrem-led"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "boomtonedj/xtrem-led"
+  ]
+}
