@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "BugTest",
+  "categories": ["Laser"],
+  "meta": {
+    "authors": ["Felix"],
+    "createDate": "2018-07-18",
+    "lastModifyDate": "2018-07-18"
+  },
+  "manualURL": "http://example.com",
+  "availableChannels": {
+    "Shutter open with extra properties": {
+      "capability": {
+        "type": "ShutterStrobe",
+        "shutterEffect": "Open",
+        "soundControlled": true,
+        "speedStart": "fast",
+        "speedEnd": "slow",
+        "duration": "instant",
+        "randomTiming": true
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1ch",
+      "channels": [
+        "Shutter open with extra properties"
+      ]
+    }
+  ]
+}

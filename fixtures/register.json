@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "generic/bugtest": {
+      "name": "BugTest",
+      "lastModifyDate": "2018-07-18",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "generic": [
+      "bugtest"
+    ]
+  },
+  "categories": {
+    "Laser": [
+      "generic/bugtest"
+    ]
+  },
+  "contributors": {
+    "Felix": [
+      "generic/bugtest"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "generic/bugtest"
+  ]
+}
