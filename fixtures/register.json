@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "american-dj/last-test-fixture": {
+      "name": "Last test fixture",
+      "lastModifyDate": "2018-07-19",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "american-dj": [
+      "last-test-fixture"
+    ]
+  },
+  "categories": {
+    "Other": [
+      "american-dj/last-test-fixture"
+    ]
+  },
+  "contributors": {
+    "Flo Edelmann": [
+      "american-dj/last-test-fixture"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "american-dj/last-test-fixture"
+  ]
+}
