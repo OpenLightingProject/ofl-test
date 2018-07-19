@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "gruft/test-fixture-2": {
+      "name": "Test fixture 2",
+      "lastModifyDate": "2018-07-19",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "gruft": [
+      "test-fixture-2"
+    ]
+  },
+  "categories": {
+    "Other": [
+      "gruft/test-fixture-2"
+    ]
+  },
+  "contributors": {
+    "Flo Edelmann": [
+      "gruft/test-fixture-2"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "gruft/test-fixture-2"
+  ]
+}
