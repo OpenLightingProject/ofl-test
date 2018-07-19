@@ -1,0 +1,44 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Test fixture",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2018-07-19",
+    "lastModifyDate": "2018-07-19"
+  },
+  "comment": "Test if the fixture test is automatically run from the editor. This fixture should have warnings that \"Color Changer\" category is required, Max Pan/Tilt are not set and that the 5-channel mode has only 3 channels.",
+  "availableChannels": {
+    "Pan": {
+      "type": "Pan"
+    },
+    "Tilt": {
+      "type": "Tilt"
+    },
+    "Color Macros": {
+      "type": "Multi-Color",
+      "capabilities": [
+        {
+          "range": [0, 100],
+          "name": "Red",
+          "color": "#ff0000"
+        },
+        {
+          "range": [101, 255],
+          "name": "Green",
+          "color": "#00ff00"
+        }
+      ]
+    }
+  },
+  "modes": [
+    {
+      "name": "5-channel",
+      "channels": [
+        "Pan",
+        "Tilt",
+        "Color Macros"
+      ]
+    }
+  ]
+}
