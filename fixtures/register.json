@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "abstract/class-fixture": {
+      "name": "class Fixture {",
+      "lastModifyDate": "2018-09-02",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "abstract": [
+      "class-fixture"
+    ]
+  },
+  "categories": {
+    "Other": [
+      "abstract/class-fixture"
+    ]
+  },
+  "contributors": {
+    "}": [
+      "abstract/class-fixture"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "abstract/class-fixture"
+  ]
+}
