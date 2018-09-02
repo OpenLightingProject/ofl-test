@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "class Fixture {",
+  "shortName": "public final String shortName;",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["}"],
+    "createDate": "2018-09-02",
+    "lastModifyDate": "2018-09-02"
+  },
+  "links": {
+    "manual": [
+      "https://constructor.com"
+    ]
+  },
+  "availableChannels": {
+    "Public String getColor()": {
+      "capability": {
+        "type": "ColorPreset",
+        "comment": "Red",
+        "colors": ["#ff0000"]
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "protected interface FixData {",
+      "channels": [
+        "Public String getColor()"
+      ]
+    }
+  ]
+}
