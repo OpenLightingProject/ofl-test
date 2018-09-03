@@ -1,0 +1,58 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Atomic 3000 with Atomic Colours",
+  "shortName": "AtScroll",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Anonymous"],
+    "createDate": "2018-05-21",
+    "lastModifyDate": "2018-08-08",
+    "importPlugin": {
+      "plugin": "gdtf",
+      "date": "2018-09-03",
+      "comment": "GDTF fixture type ID: 00 1B 21 63 BA B2 00 00 EF 2D C1 C7 48 FB 0E 46"
+    }
+  },
+  "comment": "Atomic Strobe with attached color scroller",
+  "availableChannels": {
+    "Dim": {
+      "highlightValue": 255,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Strobe Duration": {
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Strobe Rate": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "C1": {
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Fan": {
+      "capability": {
+        "type": "Generic"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Atomic 3 ch with scroller default",
+      "channels": [
+        "Dim",
+        "Strobe Duration",
+        "Strobe Rate",
+        "C1",
+        "Fan"
+      ]
+    }
+  ]
+}
