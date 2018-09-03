@@ -1,0 +1,187 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Mac Aura XB",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Anonymous"],
+    "createDate": "2018-05-14",
+    "lastModifyDate": "2018-08-12",
+    "importPlugin": {
+      "plugin": "gdtf",
+      "date": "2018-09-03",
+      "comment": "GDTF fixture type ID: 00 1B 21 63 9E 8E 00 00 9C 2C C1 C7 02 A2 22 46"
+    }
+  },
+  "comment": "Martin Mac Aura XB",
+  "availableChannels": {
+    "Sh": {
+      "defaultValue": 21,
+      "highlightValue": 21,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Dim": {
+      "highlightValue": 255,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Zoom": {
+      "defaultValue": 128,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "P": {
+      "fineChannelAliases": ["P fine"],
+      "defaultValue": 32768,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "T": {
+      "fineChannelAliases": ["T fine"],
+      "defaultValue": 32768,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Ctrl": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "C1": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "R": {
+      "defaultValue": 255,
+      "highlightValue": 255,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "G": {
+      "defaultValue": 255,
+      "highlightValue": 255,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "B": {
+      "defaultValue": 255,
+      "highlightValue": 255,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "W": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "CTC": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "FX": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "FX Rate": {
+      "defaultValue": 128,
+      "highlightValue": 128,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "FX2": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "FX2 Rate": {
+      "defaultValue": 128,
+      "highlightValue": 128,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "FX Sync": {
+      "highlightValue": 0,
+      "capability": {
+        "type": "Generic"
+      }
+    },
+    "Sh 2": {
+      "name": "Sh",
+      "defaultValue": 21,
+      "highlightValue": 15,
+      "capability": {
+        "type": "Generic"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Extended (25 ch)",
+      "channels": [
+        "Sh",
+        "Dim",
+        "Zoom",
+        "P",
+        "P fine",
+        "T",
+        "T fine",
+        "Ctrl",
+        "C1",
+        "R",
+        "G",
+        "B",
+        "W",
+        "CTC",
+        "FX",
+        "FX Rate",
+        "FX2",
+        "FX2 Rate",
+        "FX Sync",
+        "Sh",
+        "Dim",
+        "C1",
+        "R",
+        "G",
+        "B"
+      ]
+    },
+    {
+      "name": "Standard (14 ch)",
+      "channels": [
+        "Sh 2",
+        "Dim",
+        "Zoom",
+        "P",
+        "P fine",
+        "T",
+        "T fine",
+        "Ctrl",
+        "C1",
+        "R",
+        "G",
+        "B",
+        "W",
+        "CTC"
+      ]
+    }
+  ]
+}
