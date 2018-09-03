@@ -4,21 +4,29 @@
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
       "lastAction": "modified"
+    },
+    "martin/mac-aura-xb": {
+      "name": "Mac Aura XB",
+      "lastModifyDate": "2018-08-12",
+      "lastAction": "modified"
     }
   },
   "manufacturers": {
     "martin": [
-      "atomic-3000-with-atomic-colours"
+      "atomic-3000-with-atomic-colours",
+      "mac-aura-xb"
     ]
   },
   "categories": {
     "Other": [
-      "martin/atomic-3000-with-atomic-colours"
+      "martin/atomic-3000-with-atomic-colours",
+      "martin/mac-aura-xb"
     ]
   },
   "contributors": {
     "Anonymous": [
-      "martin/atomic-3000-with-atomic-colours"
+      "martin/atomic-3000-with-atomic-colours",
+      "martin/mac-aura-xb"
     ]
   },
   "rdm": {
@@ -28,6 +36,7 @@
     }
   },
   "lastUpdated": [
+    "martin/mac-aura-xb",
     "martin/atomic-3000-with-atomic-colours"
   ]
 }
