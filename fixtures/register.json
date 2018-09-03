@@ -1,0 +1,33 @@
+{
+  "filesystem": {
+    "martin/atomic-3000-with-atomic-colours": {
+      "name": "Atomic 3000 with Atomic Colours",
+      "lastModifyDate": "2018-08-08",
+      "lastAction": "modified"
+    }
+  },
+  "manufacturers": {
+    "martin": [
+      "atomic-3000-with-atomic-colours"
+    ]
+  },
+  "categories": {
+    "Other": [
+      "martin/atomic-3000-with-atomic-colours"
+    ]
+  },
+  "contributors": {
+    "Anonymous": [
+      "martin/atomic-3000-with-atomic-colours"
+    ]
+  },
+  "rdm": {
+    "19792": {
+      "key": "martin",
+      "models": {}
+    }
+  },
+  "lastUpdated": [
+    "martin/atomic-3000-with-atomic-colours"
+  ]
+}
