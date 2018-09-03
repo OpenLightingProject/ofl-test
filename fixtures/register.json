@@ -1,0 +1,28 @@
+{
+  "filesystem": {
+    "generic/test": {
+      "name": "Test",
+      "lastModifyDate": "2018-09-03",
+      "lastAction": "created"
+    }
+  },
+  "manufacturers": {
+    "generic": [
+      "test"
+    ]
+  },
+  "categories": {
+    "Other": [
+      "generic/test"
+    ]
+  },
+  "contributors": {
+    "Flo Edelmann": [
+      "generic/test"
+    ]
+  },
+  "rdm": {},
+  "lastUpdated": [
+    "generic/test"
+  ]
+}

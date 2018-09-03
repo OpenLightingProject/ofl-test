@@ -1,0 +1,77 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Test",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2018-09-03",
+    "lastModifyDate": "2018-09-03"
+  },
+  "links": {
+    "manual": [
+      "https://example.org"
+    ]
+  },
+  "availableChannels": {
+    "All eight bit": {
+      "dmxValueResolution": 1,
+      "defaultValue": 25,
+      "highlightValue": 127,
+      "capabilities": [
+        {
+          "dmxRange": [0, 20],
+          "type": "NoFunction"
+        },
+        {
+          "dmxRange": [21, 255],
+          "type": "Generic"
+        }
+      ]
+    },
+    "Red all sixteen bit": {
+      "fineChannelAliases": ["Red all sixteen bit fine"],
+      "dmxValueResolution": 2,
+      "defaultValue": 127,
+      "highlightValue": 65535,
+      "capabilities": [
+        {
+          "dmxRange": [0, 32000],
+          "type": "ColorIntensity",
+          "color": "Red"
+        },
+        {
+          "dmxRange": [32001, 65535],
+          "type": "NoFunction"
+        }
+      ]
+    },
+    "Sixteen bit but eight bit values": {
+      "fineChannelAliases": ["Sixteen bit but eight bit values fine"],
+      "dmxValueResolution": "8bit",
+      "defaultValue": 127,
+      "highlightValue": 10,
+      "capabilities": [
+        {
+          "dmxRange": [0, 200],
+          "type": "NoFunction"
+        },
+        {
+          "dmxRange": [201, 255],
+          "type": "Generic"
+        }
+      ]
+    }
+  },
+  "modes": [
+    {
+      "name": "Bla blub",
+      "channels": [
+        "All eight bit",
+        "Red all sixteen bit",
+        "Red all sixteen bit fine",
+        "Sixteen bit but eight bit values",
+        "Sixteen bit but eight bit values fine"
+      ]
+    }
+  ]
+}
