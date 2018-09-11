@@ -1,22 +1,1216 @@
 {
   "filesystem": {
+    "5star-systems/spica-250m-8bit-mode": {
+      "name": "Spica 250M (8bit mode)",
+      "lastModifyDate": "2017-07-15",
+      "lastAction": "modified"
+    },
+    "5star-systems/spica-250m-16bit-mode": {
+      "name": "Spica 250M (16bit mode)",
+      "lastModifyDate": "2017-07-15",
+      "lastAction": "modified"
+    },
+    "abstract/twister-4-1ce-2ch-mode": {
+      "name": "Twister 4 (1CE-2ch mode)",
+      "lastModifyDate": "2017-08-10",
+      "lastAction": "modified"
+    },
+    "abstract/twister-4-hp-3ch-mode": {
+      "name": "Twister 4 (HP-3ch mode)",
+      "lastModifyDate": "2017-08-10",
+      "lastAction": "modified"
+    },
+    "american-dj/fog-fury-jett-pro-1ch-mode": {
+      "name": "Fog Fury Jett Pro (1ch mode)",
+      "lastModifyDate": "2017-08-06",
+      "lastAction": "created"
+    },
+    "american-dj/fog-fury-jett-pro-2ch-mode": {
+      "name": "Fog Fury Jett Pro (2ch mode)",
+      "lastModifyDate": "2017-08-06",
+      "lastAction": "created"
+    },
+    "american-dj/fog-fury-jett-pro-3ch-mode": {
+      "name": "Fog Fury Jett Pro (3ch mode)",
+      "lastModifyDate": "2017-08-06",
+      "lastAction": "created"
+    },
+    "american-dj/fog-fury-jett-pro-7ch-mode": {
+      "name": "Fog Fury Jett Pro (7ch mode)",
+      "lastModifyDate": "2017-08-06",
+      "lastAction": "created"
+    },
+    "american-dj/fog-fury-jett-pro-9ch-mode": {
+      "name": "Fog Fury Jett Pro (9ch mode)",
+      "lastModifyDate": "2017-08-06",
+      "lastAction": "created"
+    },
+    "american-dj/quad-phase-hp": {
+      "name": "Quad Phase HP",
+      "lastModifyDate": "2017-04-10",
+      "lastAction": "modified"
+    },
+    "american-dj/revo-4-ir-4ch-mode": {
+      "name": "Revo 4 IR (4ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "american-dj/revo-4-ir-256ch-mode": {
+      "name": "Revo 4 IR (256ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "cameo/flat-pro-18-2ch-mode": {
+      "name": "Flat Pro 18 (2ch mode)",
+      "lastModifyDate": "2017-07-14",
+      "lastAction": "created"
+    },
+    "cameo/flat-pro-18-3ch1-mode": {
+      "name": "Flat Pro 18 (3ch1 mode)",
+      "lastModifyDate": "2017-07-14",
+      "lastAction": "created"
+    },
+    "cameo/flat-pro-18-3ch2-mode": {
+      "name": "Flat Pro 18 (3ch2 mode)",
+      "lastModifyDate": "2017-07-14",
+      "lastAction": "created"
+    },
+    "cameo/flat-pro-18-5ch-mode": {
+      "name": "Flat Pro 18 (5ch mode)",
+      "lastModifyDate": "2017-07-14",
+      "lastAction": "created"
+    },
+    "cameo/flat-pro-18-8ch-mode": {
+      "name": "Flat Pro 18 (8ch mode)",
+      "lastModifyDate": "2017-07-14",
+      "lastAction": "created"
+    },
+    "cameo/hydrabeam-100-3ch-mode": {
+      "name": "Hydrabeam 100 (3ch mode)",
+      "lastModifyDate": "2017-08-24",
+      "lastAction": "created"
+    },
+    "cameo/hydrabeam-100-6ch-mode": {
+      "name": "Hydrabeam 100 (6ch mode)",
+      "lastModifyDate": "2017-08-24",
+      "lastAction": "created"
+    },
+    "cameo/hydrabeam-100-9ch-mode": {
+      "name": "Hydrabeam 100 (9ch mode)",
+      "lastModifyDate": "2017-08-24",
+      "lastAction": "created"
+    },
+    "cameo/hydrabeam-100-12ch-mode": {
+      "name": "Hydrabeam 100 (12ch mode)",
+      "lastModifyDate": "2017-08-24",
+      "lastAction": "created"
+    },
+    "cameo/hydrabeam-100-14ch-mode": {
+      "name": "Hydrabeam 100 (14ch mode)",
+      "lastModifyDate": "2017-08-24",
+      "lastAction": "created"
+    },
+    "cameo/hydrabeam-300-rgbw-6ch-mode": {
+      "name": "Hydrabeam 300 RGBW (6ch mode)",
+      "lastModifyDate": "2017-07-25",
+      "lastAction": "modified"
+    },
+    "cameo/hydrabeam-300-rgbw-10ch-mode": {
+      "name": "Hydrabeam 300 RGBW (10ch mode)",
+      "lastModifyDate": "2017-07-25",
+      "lastAction": "modified"
+    },
+    "cameo/hydrabeam-300-rgbw-16ch-mode": {
+      "name": "Hydrabeam 300 RGBW (16ch mode)",
+      "lastModifyDate": "2017-07-25",
+      "lastAction": "modified"
+    },
+    "cameo/hydrabeam-300-rgbw-26ch-mode": {
+      "name": "Hydrabeam 300 RGBW (26ch mode)",
+      "lastModifyDate": "2017-07-25",
+      "lastAction": "modified"
+    },
+    "cameo/hydrabeam-300-rgbw-42ch-mode": {
+      "name": "Hydrabeam 300 RGBW (42ch mode)",
+      "lastModifyDate": "2017-07-25",
+      "lastAction": "modified"
+    },
+    "cameo/nanospot-120-5ch-mode": {
+      "name": "NanoSpot 120 (5ch mode)",
+      "lastModifyDate": "2017-08-05",
+      "lastAction": "created"
+    },
+    "cameo/nanospot-120-9ch-mode": {
+      "name": "NanoSpot 120 (9ch mode)",
+      "lastModifyDate": "2017-08-05",
+      "lastAction": "created"
+    },
+    "cameo/nanospot-120-11ch-mode": {
+      "name": "NanoSpot 120 (11ch mode)",
+      "lastModifyDate": "2017-08-05",
+      "lastAction": "created"
+    },
+    "cameo/outdoor-par-tri-12-2ch-mode": {
+      "name": "Outdoor PAR Tri 12 (2ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/outdoor-par-tri-12-3ch1-mode": {
+      "name": "Outdoor PAR Tri 12 (3ch1 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/outdoor-par-tri-12-3ch2-mode": {
+      "name": "Outdoor PAR Tri 12 (3ch2 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/outdoor-par-tri-12-6ch-mode": {
+      "name": "Outdoor PAR Tri 12 (6ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-1ch-mode": {
+      "name": "Thunder Wash 100 RGB (1ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-2ch1-mode": {
+      "name": "Thunder Wash 100 RGB (2ch1 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-2ch2-mode": {
+      "name": "Thunder Wash 100 RGB (2ch2 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-3ch1-mode": {
+      "name": "Thunder Wash 100 RGB (3ch1 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-3ch2-mode": {
+      "name": "Thunder Wash 100 RGB (3ch2 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-3ch3-mode": {
+      "name": "Thunder Wash 100 RGB (3ch3 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-4ch-mode": {
+      "name": "Thunder Wash 100 RGB (4ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-rgb-6ch-mode": {
+      "name": "Thunder Wash 100 RGB (6ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-w-1ch-mode": {
+      "name": "Thunder Wash 100 W (1ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-w-2ch-mode": {
+      "name": "Thunder Wash 100 W (2ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-w-3ch1-mode": {
+      "name": "Thunder Wash 100 W (3ch1 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-100-w-3ch2-mode": {
+      "name": "Thunder Wash 100 W (3ch2 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-1ch-mode": {
+      "name": "Thunder Wash 600 RGB (1ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-2ch1-mode": {
+      "name": "Thunder Wash 600 RGB (2ch1 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-2ch2-mode": {
+      "name": "Thunder Wash 600 RGB (2ch2 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-3ch1-mode": {
+      "name": "Thunder Wash 600 RGB (3ch1 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-3ch2-mode": {
+      "name": "Thunder Wash 600 RGB (3ch2 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-3ch3-mode": {
+      "name": "Thunder Wash 600 RGB (3ch3 mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-4ch-mode": {
+      "name": "Thunder Wash 600 RGB (4ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-rgb-6ch-mode": {
+      "name": "Thunder Wash 600 RGB (6ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-w-1ch-mode": {
+      "name": "Thunder Wash 600 W (1ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-w-2ch-mode": {
+      "name": "Thunder Wash 600 W (2ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-w-3ch-mode": {
+      "name": "Thunder Wash 600 W (3ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-w-5ch-mode": {
+      "name": "Thunder Wash 600 W (5ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "cameo/thunder-wash-600-w-7ch-mode": {
+      "name": "Thunder Wash 600 W (7ch mode)",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "chauvet-dj/slimpar-pro-h-usb-6ch-mode": {
+      "name": "SlimPAR Pro H USB (6ch mode)",
+      "lastModifyDate": "2017-08-09",
+      "lastAction": "created"
+    },
+    "chauvet-dj/slimpar-pro-h-usb-7ch-mode": {
+      "name": "SlimPAR Pro H USB (7ch mode)",
+      "lastModifyDate": "2017-08-09",
+      "lastAction": "created"
+    },
+    "chauvet-dj/slimpar-pro-h-usb-12ch-mode": {
+      "name": "SlimPAR Pro H USB (12ch mode)",
+      "lastModifyDate": "2017-08-09",
+      "lastAction": "created"
+    },
+    "dts/xr1200-wash-fresnel-mode": {
+      "name": "XR1200 WASH (Fresnel mode)",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "created"
+    },
+    "dts/xr1200-wash-pc-mode": {
+      "name": "XR1200 WASH (PC mode)",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "created"
+    },
+    "elation/platinum-hfx-basic-mode": {
+      "name": "Platinum HFX (basic mode)",
+      "lastModifyDate": "2017-05-26",
+      "lastAction": "created"
+    },
+    "elation/platinum-hfx-ext-mode": {
+      "name": "Platinum HFX (ext mode)",
+      "lastModifyDate": "2017-05-26",
+      "lastAction": "created"
+    },
+    "elation/platinum-hfx-std-mode": {
+      "name": "Platinum HFX (std mode)",
+      "lastModifyDate": "2017-05-26",
+      "lastAction": "created"
+    },
+    "elation/platinum-spot-15r-pro-basic-mode": {
+      "name": "Platinum Spot 15R Pro (Basic mode)",
+      "lastModifyDate": "2017-05-23",
+      "lastAction": "created"
+    },
+    "elation/platinum-spot-15r-pro-extended-mode": {
+      "name": "Platinum Spot 15R Pro (Extended mode)",
+      "lastModifyDate": "2017-05-23",
+      "lastAction": "created"
+    },
+    "elation/platinum-spot-15r-pro-standard-mode": {
+      "name": "Platinum Spot 15R Pro (Standard mode)",
+      "lastModifyDate": "2017-05-23",
+      "lastAction": "created"
+    },
+    "eurolite/led-kls-801": {
+      "name": "LED KLS-801",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "eurolite/led-par-56-tcl-3ch-mode": {
+      "name": "LED PAR-56 TCL (3ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "eurolite/led-par-56-tcl-5ch-mode": {
+      "name": "LED PAR-56 TCL (5ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "eurolite/led-ps-4-hcl-4ch-mode": {
+      "name": "LED PS-4 HCL (4ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "eurolite/led-ps-4-hcl-10ch-mode": {
+      "name": "LED PS-4 HCL (10ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "eurolite/led-sls-6-uv-floor-2ch-mode": {
+      "name": "LED SLS-6 UV Floor (2ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "eurolite/led-sls-6-uv-floor-4ch-mode": {
+      "name": "LED SLS-6 UV Floor (4ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "eurolite/led-svf-1": {
+      "name": "LED SVF-1",
+      "lastModifyDate": "2017-08-01",
+      "lastAction": "created"
+    },
+    "eurolite/led-tmh-18-1ch-mode": {
+      "name": "LED TMH-18 (1ch mode)",
+      "lastModifyDate": "2017-08-10",
+      "lastAction": "modified"
+    },
+    "eurolite/led-tmh-18-16ch-mode": {
+      "name": "LED TMH-18 (16ch mode)",
+      "lastModifyDate": "2017-08-10",
+      "lastAction": "modified"
+    },
+    "eurolite/led-tmh-18-48ch-mode": {
+      "name": "LED TMH-18 (48ch mode)",
+      "lastModifyDate": "2017-08-10",
+      "lastAction": "modified"
+    },
+    "eurolite/led-tmh-x25-map-mode": {
+      "name": "LED TMH-X25 (Map mode)",
+      "lastModifyDate": "2017-05-23",
+      "lastAction": "created"
+    },
+    "eurolite/led-tmh-x25-standard-mode": {
+      "name": "LED TMH-X25 (Standard mode)",
+      "lastModifyDate": "2017-05-23",
+      "lastAction": "created"
+    },
+    "futurelight/pro-slim-par-7-hcl-6ch-mode": {
+      "name": "PRO Slim PAR-7 HCL (6ch mode)",
+      "lastModifyDate": "2017-05-11",
+      "lastAction": "created"
+    },
+    "futurelight/pro-slim-par-7-hcl-8ch-mode": {
+      "name": "PRO Slim PAR-7 HCL (8ch mode)",
+      "lastModifyDate": "2017-05-11",
+      "lastAction": "created"
+    },
+    "futurelight/pro-slim-par-7-hcl-12ch-mode": {
+      "name": "PRO Slim PAR-7 HCL (12ch mode)",
+      "lastModifyDate": "2017-05-11",
+      "lastAction": "created"
+    },
+    "futurelight/pro-slim-par-7-hcl-hsi-mode": {
+      "name": "PRO Slim PAR-7 HCL (HSI mode)",
+      "lastModifyDate": "2017-05-11",
+      "lastAction": "created"
+    },
+    "futurelight/pro-slim-par-7-hcl-hsv-mode": {
+      "name": "PRO Slim PAR-7 HCL (HSV mode)",
+      "lastModifyDate": "2017-05-11",
+      "lastAction": "created"
+    },
+    "generic/desk-channel-8bit-mode": {
+      "name": "Desk Channel (8bit mode)",
+      "lastModifyDate": "2017-07-17",
+      "lastAction": "created"
+    },
+    "generic/desk-channel-16bit-mode": {
+      "name": "Desk Channel (16bit mode)",
+      "lastModifyDate": "2017-07-17",
+      "lastAction": "created"
+    },
+    "generic/desk-channel-24bit-mode": {
+      "name": "Desk Channel (24bit mode)",
+      "lastModifyDate": "2017-07-17",
+      "lastAction": "created"
+    },
+    "generic/pan-tilt-fader-8bit-mode": {
+      "name": "Pan/Tilt Fader (8bit mode)",
+      "lastModifyDate": "2017-07-21",
+      "lastAction": "modified"
+    },
+    "generic/pan-tilt-fader-16bit-alt-mode": {
+      "name": "Pan/Tilt Fader (16bit-alt mode)",
+      "lastModifyDate": "2017-07-21",
+      "lastAction": "modified"
+    },
+    "generic/pan-tilt-fader-16bit-mode": {
+      "name": "Pan/Tilt Fader (16bit mode)",
+      "lastModifyDate": "2017-07-21",
+      "lastAction": "modified"
+    },
+    "generic/pan-tilt-fader-24bit-alt-mode": {
+      "name": "Pan/Tilt Fader (24bit-alt mode)",
+      "lastModifyDate": "2017-07-21",
+      "lastAction": "modified"
+    },
+    "generic/pan-tilt-fader-24bit-mode": {
+      "name": "Pan/Tilt Fader (24bit mode)",
+      "lastModifyDate": "2017-07-21",
+      "lastAction": "modified"
+    },
+    "generic/rgb-fader-8bit-mode": {
+      "name": "RGB Fader (8bit mode)",
+      "lastModifyDate": "2017-07-17",
+      "lastAction": "created"
+    },
+    "generic/rgb-fader-16bit-mode": {
+      "name": "RGB Fader (16bit mode)",
+      "lastModifyDate": "2017-07-17",
+      "lastAction": "created"
+    },
+    "generic/rgb-fader-24bit-mode": {
+      "name": "RGB Fader (24bit mode)",
+      "lastModifyDate": "2017-07-17",
+      "lastAction": "created"
+    },
+    "gruft/ventilator": {
+      "name": "Ventilator",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "lightmaxx/platinum-mini-tri-par": {
+      "name": "Platinum Mini TRI-PAR",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "lightmaxx/vega-zoom-wash": {
+      "name": "Vega Zoom Wash",
+      "lastModifyDate": "2017-03-09",
+      "lastAction": "modified"
+    },
+    "martin/atomic-3000-1ch-mode": {
+      "name": "Atomic 3000 (1ch mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "martin/atomic-3000-3ch-mode": {
+      "name": "Atomic 3000 (3ch mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "martin/atomic-3000-4ch-mode": {
+      "name": "Atomic 3000 (4ch mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
       "lastAction": "modified"
+    },
+    "martin/mac-aura-ext-mode": {
+      "name": "MAC Aura (ext mode)",
+      "lastModifyDate": "2017-08-03",
+      "lastAction": "created"
+    },
+    "martin/mac-aura-std-mode": {
+      "name": "MAC Aura (std mode)",
+      "lastModifyDate": "2017-08-03",
+      "lastAction": "created"
+    },
+    "martin/mac-axiom-hybrid": {
+      "name": "MAC Axiom Hybrid",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "modified"
+    },
+    "martin/mac-viper-airfx-basic-mode": {
+      "name": "MAC Viper AirFX (basic mode)",
+      "lastModifyDate": "2017-08-03",
+      "lastAction": "created"
+    },
+    "martin/mac-viper-airfx-ext-mode": {
+      "name": "MAC Viper AirFX (ext mode)",
+      "lastModifyDate": "2017-08-03",
+      "lastAction": "created"
+    },
+    "martin/magnum-2500-hz": {
+      "name": "Magnum 2500 HZ",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "created"
+    },
+    "martin/roboscan-812-tracking-mode": {
+      "name": "RoboScan 812 (tracking mode)",
+      "lastModifyDate": "2017-04-18",
+      "lastAction": "created"
+    },
+    "martin/roboscan-812-vector-mode": {
+      "name": "RoboScan 812 (vector mode)",
+      "lastModifyDate": "2017-04-18",
+      "lastAction": "created"
+    },
+    "martin/rush-mh-2-wash": {
+      "name": "Rush MH 2 Wash",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "modified"
+    },
+    "martin/rush-mh-3-beam": {
+      "name": "Rush MH 3 Beam",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "modified"
+    },
+    "mdg/hazer-atmosphere-aps": {
+      "name": "Hazer ATMOSPHERE APS",
+      "lastModifyDate": "2017-08-08",
+      "lastAction": "created"
+    },
+    "prolights/diamond-19": {
+      "name": "Diamond 19",
+      "lastModifyDate": "2017-08-21",
+      "lastAction": "modified"
+    },
+    "robe/dj-scan-250-xt": {
+      "name": "DJ Scan 250 XT",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/horizon-8-ar1-d-mode": {
+      "name": "Horizon 8 (AR1.D mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-ar3-d-mode": {
+      "name": "Horizon 8 (AR3.D mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-ar3-s-clas-mode": {
+      "name": "Horizon 8 (AR3.S-Clas mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-ar3-s-spec-mode": {
+      "name": "Horizon 8 (AR3.S-Spec mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-arc1-mode": {
+      "name": "Horizon 8 (ARC1 mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-arc2-mode": {
+      "name": "Horizon 8 (ARC2 mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-arc3-mode": {
+      "name": "Horizon 8 (ARC3 mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-hsv-mode": {
+      "name": "Horizon 8 (HSV mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-pix1-mode": {
+      "name": "Horizon 8 (PIX1 mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-pix3-mode": {
+      "name": "Horizon 8 (PIX3 mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-tour-clas-mode": {
+      "name": "Horizon 8 (Tour-Clas mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-tour-spec-mode": {
+      "name": "Horizon 8 (Tour-Spec mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-tr16-clas-mode": {
+      "name": "Horizon 8 (TR16-Clas mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/horizon-8-tr16-spec-mode": {
+      "name": "Horizon 8 (TR16-Spec mode)",
+      "lastModifyDate": "2017-07-08",
+      "lastAction": "created"
+    },
+    "showtec/kanjo-wash-rgb-8ch-mode": {
+      "name": "Kanjo Wash RGB (8ch mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/kanjo-wash-rgb-14ch-mode": {
+      "name": "Kanjo Wash RGB (14ch mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p1-mode": {
+      "name": "LED Light Bar RGB V3 (P1 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p2-mode": {
+      "name": "LED Light Bar RGB V3 (P2 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p3-mode": {
+      "name": "LED Light Bar RGB V3 (P3 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p4-mode": {
+      "name": "LED Light Bar RGB V3 (P4 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p5-mode": {
+      "name": "LED Light Bar RGB V3 (P5 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p6-mode": {
+      "name": "LED Light Bar RGB V3 (P6 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/led-light-bar-rgb-v3-p7-mode": {
+      "name": "LED Light Bar RGB V3 (P7 mode)",
+      "lastModifyDate": "2017-07-16",
+      "lastAction": "modified"
+    },
+    "showtec/phantom-50-led-spot-8ch-mode": {
+      "name": "Phantom 50 LED Spot (8ch mode)",
+      "lastModifyDate": "2017-07-31",
+      "lastAction": "modified"
+    },
+    "showtec/phantom-50-led-spot-13ch-mode": {
+      "name": "Phantom 50 LED Spot (13ch mode)",
+      "lastModifyDate": "2017-07-31",
+      "lastAction": "modified"
+    },
+    "showtec/phantom-140-led-beam-8ch-mode": {
+      "name": "Phantom 140 LED Beam (8ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
+    },
+    "showtec/phantom-140-led-beam-14ch-mode": {
+      "name": "Phantom 140 LED Beam (14ch mode)",
+      "lastModifyDate": "2017-05-24",
+      "lastAction": "created"
     }
   },
   "manufacturers": {
+    "5star-systems": [
+      "spica-250m-8bit-mode",
+      "spica-250m-16bit-mode"
+    ],
+    "abstract": [
+      "twister-4-1ce-2ch-mode",
+      "twister-4-hp-3ch-mode"
+    ],
+    "american-dj": [
+      "fog-fury-jett-pro-1ch-mode",
+      "fog-fury-jett-pro-2ch-mode",
+      "fog-fury-jett-pro-3ch-mode",
+      "fog-fury-jett-pro-7ch-mode",
+      "fog-fury-jett-pro-9ch-mode",
+      "quad-phase-hp",
+      "revo-4-ir-4ch-mode",
+      "revo-4-ir-256ch-mode"
+    ],
+    "cameo": [
+      "flat-pro-18-2ch-mode",
+      "flat-pro-18-3ch1-mode",
+      "flat-pro-18-3ch2-mode",
+      "flat-pro-18-5ch-mode",
+      "flat-pro-18-8ch-mode",
+      "hydrabeam-100-3ch-mode",
+      "hydrabeam-100-6ch-mode",
+      "hydrabeam-100-9ch-mode",
+      "hydrabeam-100-12ch-mode",
+      "hydrabeam-100-14ch-mode",
+      "hydrabeam-300-rgbw-6ch-mode",
+      "hydrabeam-300-rgbw-10ch-mode",
+      "hydrabeam-300-rgbw-16ch-mode",
+      "hydrabeam-300-rgbw-26ch-mode",
+      "hydrabeam-300-rgbw-42ch-mode",
+      "nanospot-120-5ch-mode",
+      "nanospot-120-9ch-mode",
+      "nanospot-120-11ch-mode",
+      "outdoor-par-tri-12-2ch-mode",
+      "outdoor-par-tri-12-3ch1-mode",
+      "outdoor-par-tri-12-3ch2-mode",
+      "outdoor-par-tri-12-6ch-mode",
+      "thunder-wash-100-rgb-1ch-mode",
+      "thunder-wash-100-rgb-2ch1-mode",
+      "thunder-wash-100-rgb-2ch2-mode",
+      "thunder-wash-100-rgb-3ch1-mode",
+      "thunder-wash-100-rgb-3ch2-mode",
+      "thunder-wash-100-rgb-3ch3-mode",
+      "thunder-wash-100-rgb-4ch-mode",
+      "thunder-wash-100-rgb-6ch-mode",
+      "thunder-wash-100-w-1ch-mode",
+      "thunder-wash-100-w-2ch-mode",
+      "thunder-wash-100-w-3ch1-mode",
+      "thunder-wash-100-w-3ch2-mode",
+      "thunder-wash-600-rgb-1ch-mode",
+      "thunder-wash-600-rgb-2ch1-mode",
+      "thunder-wash-600-rgb-2ch2-mode",
+      "thunder-wash-600-rgb-3ch1-mode",
+      "thunder-wash-600-rgb-3ch2-mode",
+      "thunder-wash-600-rgb-3ch3-mode",
+      "thunder-wash-600-rgb-4ch-mode",
+      "thunder-wash-600-rgb-6ch-mode",
+      "thunder-wash-600-w-1ch-mode",
+      "thunder-wash-600-w-2ch-mode",
+      "thunder-wash-600-w-3ch-mode",
+      "thunder-wash-600-w-5ch-mode",
+      "thunder-wash-600-w-7ch-mode"
+    ],
+    "chauvet-dj": [
+      "slimpar-pro-h-usb-6ch-mode",
+      "slimpar-pro-h-usb-7ch-mode",
+      "slimpar-pro-h-usb-12ch-mode"
+    ],
+    "dts": [
+      "xr1200-wash-fresnel-mode",
+      "xr1200-wash-pc-mode"
+    ],
+    "elation": [
+      "platinum-hfx-basic-mode",
+      "platinum-hfx-ext-mode",
+      "platinum-hfx-std-mode",
+      "platinum-spot-15r-pro-basic-mode",
+      "platinum-spot-15r-pro-extended-mode",
+      "platinum-spot-15r-pro-standard-mode"
+    ],
+    "eurolite": [
+      "led-kls-801",
+      "led-par-56-tcl-3ch-mode",
+      "led-par-56-tcl-5ch-mode",
+      "led-ps-4-hcl-4ch-mode",
+      "led-ps-4-hcl-10ch-mode",
+      "led-sls-6-uv-floor-2ch-mode",
+      "led-sls-6-uv-floor-4ch-mode",
+      "led-svf-1",
+      "led-tmh-18-1ch-mode",
+      "led-tmh-18-16ch-mode",
+      "led-tmh-18-48ch-mode",
+      "led-tmh-x25-map-mode",
+      "led-tmh-x25-standard-mode"
+    ],
+    "futurelight": [
+      "pro-slim-par-7-hcl-6ch-mode",
+      "pro-slim-par-7-hcl-8ch-mode",
+      "pro-slim-par-7-hcl-12ch-mode",
+      "pro-slim-par-7-hcl-hsi-mode",
+      "pro-slim-par-7-hcl-hsv-mode"
+    ],
+    "generic": [
+      "desk-channel-8bit-mode",
+      "desk-channel-16bit-mode",
+      "desk-channel-24bit-mode",
+      "pan-tilt-fader-8bit-mode",
+      "pan-tilt-fader-16bit-alt-mode",
+      "pan-tilt-fader-16bit-mode",
+      "pan-tilt-fader-24bit-alt-mode",
+      "pan-tilt-fader-24bit-mode",
+      "rgb-fader-8bit-mode",
+      "rgb-fader-16bit-mode",
+      "rgb-fader-24bit-mode"
+    ],
+    "gruft": [
+      "ventilator"
+    ],
+    "lightmaxx": [
+      "platinum-mini-tri-par",
+      "vega-zoom-wash"
+    ],
     "martin": [
-      "atomic-3000-with-atomic-colours"
+      "atomic-3000-1ch-mode",
+      "atomic-3000-3ch-mode",
+      "atomic-3000-4ch-mode",
+      "atomic-3000-with-atomic-colours",
+      "mac-aura-ext-mode",
+      "mac-aura-std-mode",
+      "mac-axiom-hybrid",
+      "mac-viper-airfx-basic-mode",
+      "mac-viper-airfx-ext-mode",
+      "magnum-2500-hz",
+      "roboscan-812-tracking-mode",
+      "roboscan-812-vector-mode",
+      "rush-mh-2-wash",
+      "rush-mh-3-beam"
+    ],
+    "mdg": [
+      "hazer-atmosphere-aps"
+    ],
+    "prolights": [
+      "diamond-19"
+    ],
+    "robe": [
+      "dj-scan-250-xt"
+    ],
+    "showtec": [
+      "horizon-8-ar1-d-mode",
+      "horizon-8-ar3-d-mode",
+      "horizon-8-ar3-s-clas-mode",
+      "horizon-8-ar3-s-spec-mode",
+      "horizon-8-arc1-mode",
+      "horizon-8-arc2-mode",
+      "horizon-8-arc3-mode",
+      "horizon-8-hsv-mode",
+      "horizon-8-pix1-mode",
+      "horizon-8-pix3-mode",
+      "horizon-8-tour-clas-mode",
+      "horizon-8-tour-spec-mode",
+      "horizon-8-tr16-clas-mode",
+      "horizon-8-tr16-spec-mode",
+      "kanjo-wash-rgb-8ch-mode",
+      "kanjo-wash-rgb-14ch-mode",
+      "led-light-bar-rgb-v3-p1-mode",
+      "led-light-bar-rgb-v3-p2-mode",
+      "led-light-bar-rgb-v3-p3-mode",
+      "led-light-bar-rgb-v3-p4-mode",
+      "led-light-bar-rgb-v3-p5-mode",
+      "led-light-bar-rgb-v3-p6-mode",
+      "led-light-bar-rgb-v3-p7-mode",
+      "phantom-50-led-spot-8ch-mode",
+      "phantom-50-led-spot-13ch-mode",
+      "phantom-140-led-beam-8ch-mode",
+      "phantom-140-led-beam-14ch-mode"
     ]
   },
   "categories": {
     "Other": [
-      "martin/atomic-3000-with-atomic-colours"
+      "5star-systems/spica-250m-8bit-mode",
+      "5star-systems/spica-250m-16bit-mode",
+      "abstract/twister-4-1ce-2ch-mode",
+      "abstract/twister-4-hp-3ch-mode",
+      "american-dj/fog-fury-jett-pro-1ch-mode",
+      "american-dj/fog-fury-jett-pro-2ch-mode",
+      "american-dj/fog-fury-jett-pro-3ch-mode",
+      "american-dj/fog-fury-jett-pro-7ch-mode",
+      "american-dj/fog-fury-jett-pro-9ch-mode",
+      "american-dj/quad-phase-hp",
+      "american-dj/revo-4-ir-4ch-mode",
+      "american-dj/revo-4-ir-256ch-mode",
+      "cameo/flat-pro-18-2ch-mode",
+      "cameo/flat-pro-18-3ch1-mode",
+      "cameo/flat-pro-18-3ch2-mode",
+      "cameo/flat-pro-18-5ch-mode",
+      "cameo/flat-pro-18-8ch-mode",
+      "cameo/hydrabeam-100-3ch-mode",
+      "cameo/hydrabeam-100-6ch-mode",
+      "cameo/hydrabeam-100-9ch-mode",
+      "cameo/hydrabeam-100-12ch-mode",
+      "cameo/hydrabeam-100-14ch-mode",
+      "cameo/hydrabeam-300-rgbw-6ch-mode",
+      "cameo/hydrabeam-300-rgbw-10ch-mode",
+      "cameo/hydrabeam-300-rgbw-16ch-mode",
+      "cameo/hydrabeam-300-rgbw-26ch-mode",
+      "cameo/hydrabeam-300-rgbw-42ch-mode",
+      "cameo/nanospot-120-5ch-mode",
+      "cameo/nanospot-120-9ch-mode",
+      "cameo/nanospot-120-11ch-mode",
+      "cameo/outdoor-par-tri-12-2ch-mode",
+      "cameo/outdoor-par-tri-12-3ch1-mode",
+      "cameo/outdoor-par-tri-12-3ch2-mode",
+      "cameo/outdoor-par-tri-12-6ch-mode",
+      "cameo/thunder-wash-100-rgb-1ch-mode",
+      "cameo/thunder-wash-100-rgb-2ch1-mode",
+      "cameo/thunder-wash-100-rgb-2ch2-mode",
+      "cameo/thunder-wash-100-rgb-3ch1-mode",
+      "cameo/thunder-wash-100-rgb-3ch2-mode",
+      "cameo/thunder-wash-100-rgb-3ch3-mode",
+      "cameo/thunder-wash-100-rgb-4ch-mode",
+      "cameo/thunder-wash-100-rgb-6ch-mode",
+      "cameo/thunder-wash-100-w-1ch-mode",
+      "cameo/thunder-wash-100-w-2ch-mode",
+      "cameo/thunder-wash-100-w-3ch1-mode",
+      "cameo/thunder-wash-100-w-3ch2-mode",
+      "cameo/thunder-wash-600-rgb-1ch-mode",
+      "cameo/thunder-wash-600-rgb-2ch1-mode",
+      "cameo/thunder-wash-600-rgb-2ch2-mode",
+      "cameo/thunder-wash-600-rgb-3ch1-mode",
+      "cameo/thunder-wash-600-rgb-3ch2-mode",
+      "cameo/thunder-wash-600-rgb-3ch3-mode",
+      "cameo/thunder-wash-600-rgb-4ch-mode",
+      "cameo/thunder-wash-600-rgb-6ch-mode",
+      "cameo/thunder-wash-600-w-1ch-mode",
+      "cameo/thunder-wash-600-w-2ch-mode",
+      "cameo/thunder-wash-600-w-3ch-mode",
+      "cameo/thunder-wash-600-w-5ch-mode",
+      "cameo/thunder-wash-600-w-7ch-mode",
+      "chauvet-dj/slimpar-pro-h-usb-6ch-mode",
+      "chauvet-dj/slimpar-pro-h-usb-7ch-mode",
+      "chauvet-dj/slimpar-pro-h-usb-12ch-mode",
+      "dts/xr1200-wash-fresnel-mode",
+      "dts/xr1200-wash-pc-mode",
+      "elation/platinum-hfx-basic-mode",
+      "elation/platinum-hfx-ext-mode",
+      "elation/platinum-hfx-std-mode",
+      "elation/platinum-spot-15r-pro-basic-mode",
+      "elation/platinum-spot-15r-pro-extended-mode",
+      "elation/platinum-spot-15r-pro-standard-mode",
+      "eurolite/led-kls-801",
+      "eurolite/led-par-56-tcl-3ch-mode",
+      "eurolite/led-par-56-tcl-5ch-mode",
+      "eurolite/led-ps-4-hcl-4ch-mode",
+      "eurolite/led-ps-4-hcl-10ch-mode",
+      "eurolite/led-sls-6-uv-floor-2ch-mode",
+      "eurolite/led-sls-6-uv-floor-4ch-mode",
+      "eurolite/led-svf-1",
+      "eurolite/led-tmh-18-1ch-mode",
+      "eurolite/led-tmh-18-16ch-mode",
+      "eurolite/led-tmh-18-48ch-mode",
+      "eurolite/led-tmh-x25-map-mode",
+      "eurolite/led-tmh-x25-standard-mode",
+      "futurelight/pro-slim-par-7-hcl-6ch-mode",
+      "futurelight/pro-slim-par-7-hcl-8ch-mode",
+      "futurelight/pro-slim-par-7-hcl-12ch-mode",
+      "futurelight/pro-slim-par-7-hcl-hsi-mode",
+      "futurelight/pro-slim-par-7-hcl-hsv-mode",
+      "generic/desk-channel-8bit-mode",
+      "generic/desk-channel-16bit-mode",
+      "generic/desk-channel-24bit-mode",
+      "generic/pan-tilt-fader-8bit-mode",
+      "generic/pan-tilt-fader-16bit-alt-mode",
+      "generic/pan-tilt-fader-16bit-mode",
+      "generic/pan-tilt-fader-24bit-alt-mode",
+      "generic/pan-tilt-fader-24bit-mode",
+      "generic/rgb-fader-8bit-mode",
+      "generic/rgb-fader-16bit-mode",
+      "generic/rgb-fader-24bit-mode",
+      "gruft/ventilator",
+      "lightmaxx/platinum-mini-tri-par",
+      "lightmaxx/vega-zoom-wash",
+      "martin/atomic-3000-1ch-mode",
+      "martin/atomic-3000-3ch-mode",
+      "martin/atomic-3000-4ch-mode",
+      "martin/atomic-3000-with-atomic-colours",
+      "martin/mac-aura-ext-mode",
+      "martin/mac-aura-std-mode",
+      "martin/mac-axiom-hybrid",
+      "martin/mac-viper-airfx-basic-mode",
+      "martin/mac-viper-airfx-ext-mode",
+      "martin/magnum-2500-hz",
+      "martin/roboscan-812-tracking-mode",
+      "martin/roboscan-812-vector-mode",
+      "martin/rush-mh-2-wash",
+      "martin/rush-mh-3-beam",
+      "mdg/hazer-atmosphere-aps",
+      "prolights/diamond-19",
+      "robe/dj-scan-250-xt",
+      "showtec/horizon-8-ar1-d-mode",
+      "showtec/horizon-8-ar3-d-mode",
+      "showtec/horizon-8-ar3-s-clas-mode",
+      "showtec/horizon-8-ar3-s-spec-mode",
+      "showtec/horizon-8-arc1-mode",
+      "showtec/horizon-8-arc2-mode",
+      "showtec/horizon-8-arc3-mode",
+      "showtec/horizon-8-hsv-mode",
+      "showtec/horizon-8-pix1-mode",
+      "showtec/horizon-8-pix3-mode",
+      "showtec/horizon-8-tour-clas-mode",
+      "showtec/horizon-8-tour-spec-mode",
+      "showtec/horizon-8-tr16-clas-mode",
+      "showtec/horizon-8-tr16-spec-mode",
+      "showtec/kanjo-wash-rgb-8ch-mode",
+      "showtec/kanjo-wash-rgb-14ch-mode",
+      "showtec/led-light-bar-rgb-v3-p1-mode",
+      "showtec/led-light-bar-rgb-v3-p2-mode",
+      "showtec/led-light-bar-rgb-v3-p3-mode",
+      "showtec/led-light-bar-rgb-v3-p4-mode",
+      "showtec/led-light-bar-rgb-v3-p5-mode",
+      "showtec/led-light-bar-rgb-v3-p6-mode",
+      "showtec/led-light-bar-rgb-v3-p7-mode",
+      "showtec/phantom-50-led-spot-8ch-mode",
+      "showtec/phantom-50-led-spot-13ch-mode",
+      "showtec/phantom-140-led-beam-8ch-mode",
+      "showtec/phantom-140-led-beam-14ch-mode"
     ]
   },
   "contributors": {
+    "Felix Edelmann": [
+      "5star-systems/spica-250m-8bit-mode",
+      "5star-systems/spica-250m-16bit-mode",
+      "abstract/twister-4-1ce-2ch-mode",
+      "abstract/twister-4-hp-3ch-mode",
+      "american-dj/fog-fury-jett-pro-1ch-mode",
+      "american-dj/fog-fury-jett-pro-2ch-mode",
+      "american-dj/fog-fury-jett-pro-3ch-mode",
+      "american-dj/fog-fury-jett-pro-7ch-mode",
+      "american-dj/fog-fury-jett-pro-9ch-mode",
+      "american-dj/quad-phase-hp",
+      "american-dj/revo-4-ir-4ch-mode",
+      "american-dj/revo-4-ir-256ch-mode",
+      "cameo/flat-pro-18-2ch-mode",
+      "cameo/flat-pro-18-3ch1-mode",
+      "cameo/flat-pro-18-3ch2-mode",
+      "cameo/flat-pro-18-5ch-mode",
+      "cameo/flat-pro-18-8ch-mode",
+      "cameo/hydrabeam-100-3ch-mode",
+      "cameo/hydrabeam-100-6ch-mode",
+      "cameo/hydrabeam-100-9ch-mode",
+      "cameo/hydrabeam-100-12ch-mode",
+      "cameo/hydrabeam-100-14ch-mode",
+      "cameo/hydrabeam-300-rgbw-6ch-mode",
+      "cameo/hydrabeam-300-rgbw-10ch-mode",
+      "cameo/hydrabeam-300-rgbw-16ch-mode",
+      "cameo/hydrabeam-300-rgbw-26ch-mode",
+      "cameo/hydrabeam-300-rgbw-42ch-mode",
+      "cameo/nanospot-120-5ch-mode",
+      "cameo/nanospot-120-9ch-mode",
+      "cameo/nanospot-120-11ch-mode",
+      "cameo/outdoor-par-tri-12-2ch-mode",
+      "cameo/outdoor-par-tri-12-3ch1-mode",
+      "cameo/outdoor-par-tri-12-3ch2-mode",
+      "cameo/outdoor-par-tri-12-6ch-mode",
+      "cameo/thunder-wash-100-rgb-1ch-mode",
+      "cameo/thunder-wash-100-rgb-2ch1-mode",
+      "cameo/thunder-wash-100-rgb-2ch2-mode",
+      "cameo/thunder-wash-100-rgb-3ch1-mode",
+      "cameo/thunder-wash-100-rgb-3ch2-mode",
+      "cameo/thunder-wash-100-rgb-3ch3-mode",
+      "cameo/thunder-wash-100-rgb-4ch-mode",
+      "cameo/thunder-wash-100-rgb-6ch-mode",
+      "cameo/thunder-wash-100-w-1ch-mode",
+      "cameo/thunder-wash-100-w-2ch-mode",
+      "cameo/thunder-wash-100-w-3ch1-mode",
+      "cameo/thunder-wash-100-w-3ch2-mode",
+      "cameo/thunder-wash-600-rgb-1ch-mode",
+      "cameo/thunder-wash-600-rgb-2ch1-mode",
+      "cameo/thunder-wash-600-rgb-2ch2-mode",
+      "cameo/thunder-wash-600-rgb-3ch1-mode",
+      "cameo/thunder-wash-600-rgb-3ch2-mode",
+      "cameo/thunder-wash-600-rgb-3ch3-mode",
+      "cameo/thunder-wash-600-rgb-4ch-mode",
+      "cameo/thunder-wash-600-rgb-6ch-mode",
+      "cameo/thunder-wash-600-w-1ch-mode",
+      "cameo/thunder-wash-600-w-2ch-mode",
+      "cameo/thunder-wash-600-w-3ch-mode",
+      "cameo/thunder-wash-600-w-5ch-mode",
+      "cameo/thunder-wash-600-w-7ch-mode",
+      "chauvet-dj/slimpar-pro-h-usb-6ch-mode",
+      "chauvet-dj/slimpar-pro-h-usb-7ch-mode",
+      "chauvet-dj/slimpar-pro-h-usb-12ch-mode",
+      "dts/xr1200-wash-fresnel-mode",
+      "dts/xr1200-wash-pc-mode",
+      "elation/platinum-hfx-basic-mode",
+      "elation/platinum-hfx-ext-mode",
+      "elation/platinum-hfx-std-mode",
+      "elation/platinum-spot-15r-pro-basic-mode",
+      "elation/platinum-spot-15r-pro-extended-mode",
+      "elation/platinum-spot-15r-pro-standard-mode",
+      "eurolite/led-kls-801",
+      "eurolite/led-par-56-tcl-3ch-mode",
+      "eurolite/led-par-56-tcl-5ch-mode",
+      "eurolite/led-ps-4-hcl-4ch-mode",
+      "eurolite/led-ps-4-hcl-10ch-mode",
+      "eurolite/led-sls-6-uv-floor-2ch-mode",
+      "eurolite/led-sls-6-uv-floor-4ch-mode",
+      "eurolite/led-svf-1",
+      "eurolite/led-tmh-18-1ch-mode",
+      "eurolite/led-tmh-18-16ch-mode",
+      "eurolite/led-tmh-18-48ch-mode",
+      "eurolite/led-tmh-x25-map-mode",
+      "eurolite/led-tmh-x25-standard-mode",
+      "futurelight/pro-slim-par-7-hcl-6ch-mode",
+      "futurelight/pro-slim-par-7-hcl-8ch-mode",
+      "futurelight/pro-slim-par-7-hcl-12ch-mode",
+      "futurelight/pro-slim-par-7-hcl-hsi-mode",
+      "futurelight/pro-slim-par-7-hcl-hsv-mode",
+      "generic/desk-channel-8bit-mode",
+      "generic/desk-channel-16bit-mode",
+      "generic/desk-channel-24bit-mode",
+      "generic/pan-tilt-fader-8bit-mode",
+      "generic/pan-tilt-fader-16bit-alt-mode",
+      "generic/pan-tilt-fader-16bit-mode",
+      "generic/pan-tilt-fader-24bit-alt-mode",
+      "generic/pan-tilt-fader-24bit-mode",
+      "generic/rgb-fader-8bit-mode",
+      "generic/rgb-fader-16bit-mode",
+      "generic/rgb-fader-24bit-mode",
+      "gruft/ventilator",
+      "lightmaxx/platinum-mini-tri-par",
+      "lightmaxx/vega-zoom-wash",
+      "martin/atomic-3000-1ch-mode",
+      "martin/atomic-3000-3ch-mode",
+      "martin/atomic-3000-4ch-mode",
+      "martin/mac-aura-ext-mode",
+      "martin/mac-aura-std-mode",
+      "martin/mac-axiom-hybrid",
+      "martin/mac-viper-airfx-basic-mode",
+      "martin/mac-viper-airfx-ext-mode",
+      "martin/magnum-2500-hz",
+      "martin/roboscan-812-tracking-mode",
+      "martin/roboscan-812-vector-mode",
+      "martin/rush-mh-2-wash",
+      "martin/rush-mh-3-beam",
+      "mdg/hazer-atmosphere-aps",
+      "prolights/diamond-19",
+      "robe/dj-scan-250-xt",
+      "showtec/horizon-8-ar1-d-mode",
+      "showtec/horizon-8-ar3-d-mode",
+      "showtec/horizon-8-ar3-s-clas-mode",
+      "showtec/horizon-8-ar3-s-spec-mode",
+      "showtec/horizon-8-arc1-mode",
+      "showtec/horizon-8-arc2-mode",
+      "showtec/horizon-8-arc3-mode",
+      "showtec/horizon-8-hsv-mode",
+      "showtec/horizon-8-pix1-mode",
+      "showtec/horizon-8-pix3-mode",
+      "showtec/horizon-8-tour-clas-mode",
+      "showtec/horizon-8-tour-spec-mode",
+      "showtec/horizon-8-tr16-clas-mode",
+      "showtec/horizon-8-tr16-spec-mode",
+      "showtec/kanjo-wash-rgb-8ch-mode",
+      "showtec/kanjo-wash-rgb-14ch-mode",
+      "showtec/led-light-bar-rgb-v3-p1-mode",
+      "showtec/led-light-bar-rgb-v3-p2-mode",
+      "showtec/led-light-bar-rgb-v3-p3-mode",
+      "showtec/led-light-bar-rgb-v3-p4-mode",
+      "showtec/led-light-bar-rgb-v3-p5-mode",
+      "showtec/led-light-bar-rgb-v3-p6-mode",
+      "showtec/led-light-bar-rgb-v3-p7-mode",
+      "showtec/phantom-50-led-spot-8ch-mode",
+      "showtec/phantom-50-led-spot-13ch-mode",
+      "showtec/phantom-140-led-beam-8ch-mode",
+      "showtec/phantom-140-led-beam-14ch-mode"
+    ],
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
     ]
@@ -28,6 +1222,151 @@
     }
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "martin/atomic-3000-with-atomic-colours",
+    "cameo/hydrabeam-100-12ch-mode",
+    "cameo/hydrabeam-100-14ch-mode",
+    "cameo/hydrabeam-100-3ch-mode",
+    "cameo/hydrabeam-100-6ch-mode",
+    "cameo/hydrabeam-100-9ch-mode",
+    "prolights/diamond-19",
+    "abstract/twister-4-1ce-2ch-mode",
+    "abstract/twister-4-hp-3ch-mode",
+    "eurolite/led-tmh-18-16ch-mode",
+    "eurolite/led-tmh-18-1ch-mode",
+    "eurolite/led-tmh-18-48ch-mode",
+    "chauvet-dj/slimpar-pro-h-usb-12ch-mode",
+    "chauvet-dj/slimpar-pro-h-usb-6ch-mode",
+    "chauvet-dj/slimpar-pro-h-usb-7ch-mode",
+    "dts/xr1200-wash-fresnel-mode",
+    "dts/xr1200-wash-pc-mode",
+    "martin/magnum-2500-hz",
+    "mdg/hazer-atmosphere-aps",
+    "martin/mac-axiom-hybrid",
+    "martin/rush-mh-2-wash",
+    "martin/rush-mh-3-beam",
+    "american-dj/fog-fury-jett-pro-1ch-mode",
+    "american-dj/fog-fury-jett-pro-2ch-mode",
+    "american-dj/fog-fury-jett-pro-3ch-mode",
+    "american-dj/fog-fury-jett-pro-7ch-mode",
+    "american-dj/fog-fury-jett-pro-9ch-mode",
+    "cameo/nanospot-120-11ch-mode",
+    "cameo/nanospot-120-5ch-mode",
+    "cameo/nanospot-120-9ch-mode",
+    "martin/mac-aura-ext-mode",
+    "martin/mac-aura-std-mode",
+    "martin/mac-viper-airfx-basic-mode",
+    "martin/mac-viper-airfx-ext-mode",
+    "eurolite/led-svf-1",
+    "showtec/phantom-50-led-spot-13ch-mode",
+    "showtec/phantom-50-led-spot-8ch-mode",
+    "cameo/hydrabeam-300-rgbw-10ch-mode",
+    "cameo/hydrabeam-300-rgbw-16ch-mode",
+    "cameo/hydrabeam-300-rgbw-26ch-mode",
+    "cameo/hydrabeam-300-rgbw-42ch-mode",
+    "cameo/hydrabeam-300-rgbw-6ch-mode",
+    "generic/pan-tilt-fader-16bit-alt-mode",
+    "generic/pan-tilt-fader-16bit-mode",
+    "generic/pan-tilt-fader-24bit-alt-mode",
+    "generic/pan-tilt-fader-24bit-mode",
+    "generic/pan-tilt-fader-8bit-mode",
+    "generic/desk-channel-16bit-mode",
+    "generic/desk-channel-24bit-mode",
+    "generic/desk-channel-8bit-mode",
+    "generic/rgb-fader-16bit-mode",
+    "generic/rgb-fader-24bit-mode",
+    "generic/rgb-fader-8bit-mode",
+    "eurolite/led-kls-801",
+    "martin/atomic-3000-1ch-mode",
+    "martin/atomic-3000-3ch-mode",
+    "martin/atomic-3000-4ch-mode",
+    "robe/dj-scan-250-xt",
+    "showtec/kanjo-wash-rgb-14ch-mode",
+    "showtec/kanjo-wash-rgb-8ch-mode",
+    "showtec/led-light-bar-rgb-v3-p1-mode",
+    "showtec/led-light-bar-rgb-v3-p2-mode",
+    "showtec/led-light-bar-rgb-v3-p3-mode",
+    "showtec/led-light-bar-rgb-v3-p4-mode",
+    "showtec/led-light-bar-rgb-v3-p5-mode",
+    "showtec/led-light-bar-rgb-v3-p6-mode",
+    "showtec/led-light-bar-rgb-v3-p7-mode",
+    "5star-systems/spica-250m-16bit-mode",
+    "5star-systems/spica-250m-8bit-mode",
+    "cameo/flat-pro-18-2ch-mode",
+    "cameo/flat-pro-18-3ch1-mode",
+    "cameo/flat-pro-18-3ch2-mode",
+    "cameo/flat-pro-18-5ch-mode",
+    "cameo/flat-pro-18-8ch-mode",
+    "showtec/horizon-8-ar1-d-mode",
+    "showtec/horizon-8-ar3-d-mode",
+    "showtec/horizon-8-ar3-s-clas-mode",
+    "showtec/horizon-8-ar3-s-spec-mode",
+    "showtec/horizon-8-arc1-mode",
+    "showtec/horizon-8-arc2-mode",
+    "showtec/horizon-8-arc3-mode",
+    "showtec/horizon-8-hsv-mode",
+    "showtec/horizon-8-pix1-mode",
+    "showtec/horizon-8-pix3-mode",
+    "showtec/horizon-8-tour-clas-mode",
+    "showtec/horizon-8-tour-spec-mode",
+    "showtec/horizon-8-tr16-clas-mode",
+    "showtec/horizon-8-tr16-spec-mode",
+    "elation/platinum-hfx-basic-mode",
+    "elation/platinum-hfx-ext-mode",
+    "elation/platinum-hfx-std-mode",
+    "american-dj/revo-4-ir-256ch-mode",
+    "american-dj/revo-4-ir-4ch-mode",
+    "eurolite/led-par-56-tcl-3ch-mode",
+    "eurolite/led-par-56-tcl-5ch-mode",
+    "eurolite/led-ps-4-hcl-10ch-mode",
+    "eurolite/led-ps-4-hcl-4ch-mode",
+    "eurolite/led-sls-6-uv-floor-2ch-mode",
+    "eurolite/led-sls-6-uv-floor-4ch-mode",
+    "showtec/phantom-140-led-beam-14ch-mode",
+    "showtec/phantom-140-led-beam-8ch-mode",
+    "elation/platinum-spot-15r-pro-basic-mode",
+    "elation/platinum-spot-15r-pro-extended-mode",
+    "elation/platinum-spot-15r-pro-standard-mode",
+    "eurolite/led-tmh-x25-map-mode",
+    "eurolite/led-tmh-x25-standard-mode",
+    "futurelight/pro-slim-par-7-hcl-12ch-mode",
+    "futurelight/pro-slim-par-7-hcl-6ch-mode",
+    "futurelight/pro-slim-par-7-hcl-8ch-mode",
+    "futurelight/pro-slim-par-7-hcl-hsi-mode",
+    "futurelight/pro-slim-par-7-hcl-hsv-mode",
+    "martin/roboscan-812-tracking-mode",
+    "martin/roboscan-812-vector-mode",
+    "american-dj/quad-phase-hp",
+    "cameo/outdoor-par-tri-12-2ch-mode",
+    "cameo/outdoor-par-tri-12-3ch1-mode",
+    "cameo/outdoor-par-tri-12-3ch2-mode",
+    "cameo/outdoor-par-tri-12-6ch-mode",
+    "cameo/thunder-wash-100-rgb-1ch-mode",
+    "cameo/thunder-wash-100-rgb-2ch1-mode",
+    "cameo/thunder-wash-100-rgb-2ch2-mode",
+    "cameo/thunder-wash-100-rgb-3ch1-mode",
+    "cameo/thunder-wash-100-rgb-3ch2-mode",
+    "cameo/thunder-wash-100-rgb-3ch3-mode",
+    "cameo/thunder-wash-100-rgb-4ch-mode",
+    "cameo/thunder-wash-100-rgb-6ch-mode",
+    "cameo/thunder-wash-100-w-1ch-mode",
+    "cameo/thunder-wash-100-w-2ch-mode",
+    "cameo/thunder-wash-100-w-3ch1-mode",
+    "cameo/thunder-wash-100-w-3ch2-mode",
+    "cameo/thunder-wash-600-rgb-1ch-mode",
+    "cameo/thunder-wash-600-rgb-2ch1-mode",
+    "cameo/thunder-wash-600-rgb-2ch2-mode",
+    "cameo/thunder-wash-600-rgb-3ch1-mode",
+    "cameo/thunder-wash-600-rgb-3ch2-mode",
+    "cameo/thunder-wash-600-rgb-3ch3-mode",
+    "cameo/thunder-wash-600-rgb-4ch-mode",
+    "cameo/thunder-wash-600-rgb-6ch-mode",
+    "cameo/thunder-wash-600-w-1ch-mode",
+    "cameo/thunder-wash-600-w-2ch-mode",
+    "cameo/thunder-wash-600-w-3ch-mode",
+    "cameo/thunder-wash-600-w-5ch-mode",
+    "cameo/thunder-wash-600-w-7ch-mode",
+    "gruft/ventilator",
+    "lightmaxx/platinum-mini-tri-par",
+    "lightmaxx/vega-zoom-wash"
   ]
 }
