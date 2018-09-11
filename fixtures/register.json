@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "5star-systems/spica-250m": {
+      "name": "Spica 250M",
+      "lastModifyDate": "2018-09-11",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,18 +12,31 @@
     }
   },
   "manufacturers": {
+    "5star-systems": [
+      "spica-250m"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
+    "Moving Head": [
+      "5star-systems/spica-250m"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
     ]
   },
   "contributors": {
+    "Felix Edelmann": [
+      "5star-systems/spica-250m",
+      "5star-systems/spica-250m"
+    ],
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Flo Edelmann": [
+      "5star-systems/spica-250m"
     ]
   },
   "rdm": {
@@ -28,6 +46,7 @@
     }
   },
   "lastUpdated": [
+    "5star-systems/spica-250m",
     "martin/atomic-3000-with-atomic-colours"
   ]
 }
