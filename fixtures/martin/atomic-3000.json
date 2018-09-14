@@ -1,0 +1,37 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Atomic 3000",
+  "categories": ["Strobe"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2018-09-14",
+    "lastModifyDate": "2018-09-14"
+  },
+  "links": {
+    "manual": [
+      "https://example.org"
+    ]
+  },
+  "availableChannels": {
+    "Dimmer": {
+      "capability": {
+        "type": "Intensity"
+      }
+    },
+    "Programs": {
+      "capability": {
+        "type": "Generic"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "2-channel",
+      "shortName": "2ch",
+      "channels": [
+        "Dimmer",
+        "Programs"
+      ]
+    }
+  ]
+}
