@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "martin/atomic-3000": {
+      "name": "Atomic 3000",
+      "lastModifyDate": "2018-09-14",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -8,17 +13,24 @@
   },
   "manufacturers": {
     "martin": [
+      "atomic-3000",
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Strobe": [
+      "martin/atomic-3000"
     ]
   },
   "contributors": {
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Flo Edelmann": [
+      "martin/atomic-3000"
     ]
   },
   "rdm": {
@@ -28,6 +40,7 @@
     }
   },
   "lastUpdated": [
+    "martin/atomic-3000",
     "martin/atomic-3000-with-atomic-colours"
   ]
 }
