@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "gruft/pixel-tube": {
+      "name": "Pixel Tube",
+      "lastActionDate": "2018-09-24",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,18 +12,30 @@
     }
   },
   "manufacturers": {
+    "gruft": [
+      "pixel-tube"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
+    "Color Changer": [
+      "gruft/pixel-tube"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Pixel Bar": [
+      "gruft/pixel-tube"
     ]
   },
   "contributors": {
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Flo Edelmann": [
+      "gruft/pixel-tube"
     ]
   },
   "rdm": {
@@ -28,6 +45,6 @@
     }
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "gruft/pixel-tube"
   ]
 }
