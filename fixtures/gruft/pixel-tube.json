@@ -1,0 +1,119 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Pixel Tube",
+  "categories": ["Pixel Bar", "Color Changer"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2018-09-24",
+    "lastModifyDate": "2018-09-24"
+  },
+  "links": {
+    "productPage": [
+      "https://github.com/FloEdelmann/Esp32PixelTubes"
+    ]
+  },
+  "physical": {
+    "dimensions": [1000, 30, 40],
+    "power": 10,
+    "bulb": {
+      "type": "30x WS2812B RGB LEDs"
+    },
+    "focus": {
+      "type": "Fixed"
+    }
+  },
+  "availableChannels": {
+    "Dimmer": {
+      "capability": {
+        "type": "Intensity"
+      }
+    },
+    "Color Temperature": {
+      "capability": {
+        "type": "ColorTemperature",
+        "colorTemperatureStart": "cold",
+        "colorTemperatureEnd": "warm"
+      }
+    },
+    "Color Macros": {
+      "capabilities": [
+        {
+          "dmxRange": [0, 10],
+          "type": "NoFunction"
+        },
+        {
+          "dmxRange": [11, 255],
+          "type": "ColorPreset",
+          "comment": "Color Macros"
+        }
+      ]
+    },
+    "Auto Programs": {
+      "capabilities": [
+        {
+          "dmxRange": [0, 10],
+          "type": "NoFunction"
+        },
+        {
+          "dmxRange": [11, 255],
+          "type": "Effect",
+          "effectName": "Auto programs"
+        }
+      ]
+    },
+    "RGB / HSV selection": {
+      "capabilities": [
+        {
+          "dmxRange": [0, 127],
+          "type": "Maintenance",
+          "comment": "RGB"
+        },
+        {
+          "dmxRange": [128, 255],
+          "type": "Maintenance",
+          "comment": "HSV"
+        }
+      ]
+    },
+    "Intensity $pixelKey": {
+      "defaultValue": 255,
+      "capability": {
+        "type": "Intensity"
+      }
+    },
+    "Red $pixelKey": {
+      "capability": {
+        "type": "ColorIntensity",
+        "color": "Red"
+      }
+    },
+    "Green $pixelKey": {
+      "capability": {
+        "type": "ColorIntensity",
+        "color": "Green"
+      }
+    },
+    "Blue $pixelKey": {
+      "capability": {
+        "type": "ColorIntensity",
+        "color": "Blue"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Pixel",
+      "channels": [
+        "Dimmer",
+        "Color Temperature",
+        "Color Macros",
+        "Auto Programs",
+        "RGB / HSV selection",
+        "Intensity $pixelKey",
+        "Red $pixelKey",
+        "Green $pixelKey",
+        "Blue $pixelKey"
+      ]
+    }
+  ]
+}
