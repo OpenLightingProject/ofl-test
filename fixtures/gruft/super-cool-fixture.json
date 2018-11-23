@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Super cool Fixture",
+  "shortName": "gruftFixture",
+  "categories": ["Color Changer"],
+  "meta": {
+    "authors": ["Felix"],
+    "createDate": "2018-11-23",
+    "lastModifyDate": "2018-11-23"
+  },
+  "links": {
+    "manual": [
+      "https://example.com"
+    ]
+  },
+  "availableChannels": {
+    "Dimmer": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1ch",
+      "channels": [
+        "Dimmer"
+      ]
+    }
+  ]
+}
