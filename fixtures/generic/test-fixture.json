@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Test fixture",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2018-11-26",
+    "lastModifyDate": "2018-11-26"
+  },
+  "links": {
+    "manual": [
+      "https://example.org"
+    ]
+  },
+  "availableChannels": {
+    "Dimmer": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Blub",
+      "channels": [
+        "Dimmer"
+      ]
+    }
+  ]
+}
