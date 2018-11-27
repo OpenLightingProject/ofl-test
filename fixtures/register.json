@@ -27,6 +27,9 @@
       "models": {}
     }
   },
+  "colors": {
+    "martin": "#4088bf"
+  },
   "lastUpdated": [
     "martin/atomic-3000-with-atomic-colours"
   ]
