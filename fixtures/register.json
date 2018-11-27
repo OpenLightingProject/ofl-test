@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "generic/test-fixture": {
+      "name": "Test fixture",
+      "lastActionDate": "2018-11-27",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,18 +12,25 @@
     }
   },
   "manufacturers": {
+    "generic": [
+      "test-fixture"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
     "Other": [
+      "generic/test-fixture",
       "martin/atomic-3000-with-atomic-colours"
     ]
   },
   "contributors": {
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Flo Edelmann": [
+      "generic/test-fixture"
     ]
   },
   "rdm": {
@@ -31,6 +43,6 @@
     "martin": "#4088bf"
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "generic/test-fixture"
   ]
 }
