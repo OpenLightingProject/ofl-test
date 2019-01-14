@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "generic/1": {
+      "name": "1",
+      "lastActionDate": "2019-01-14",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,16 +12,25 @@
     }
   },
   "manufacturers": {
+    "generic": [
+      "1"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
+    "Matrix": [
+      "generic/1"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
     ]
   },
   "contributors": {
+    "1": [
+      "generic/1"
+    ],
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
     ]
@@ -31,6 +45,6 @@
     "martin": "#4088bf"
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "generic/1"
   ]
 }
