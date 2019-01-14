@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "5star-systems/a": {
+      "name": "a",
+      "lastActionDate": "2019-01-14",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,16 +12,25 @@
     }
   },
   "manufacturers": {
+    "5star-systems": [
+      "a"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
+    "Blinder": [
+      "5star-systems/a"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
     ]
   },
   "contributors": {
+    "1": [
+      "5star-systems/a"
+    ],
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
     ]
@@ -31,6 +45,6 @@
     "martin": "#4088bf"
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "5star-systems/a"
   ]
 }
