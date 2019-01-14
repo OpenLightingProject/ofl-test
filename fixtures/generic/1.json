@@ -1,0 +1,56 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "1",
+  "categories": ["Matrix"],
+  "meta": {
+    "authors": ["1"],
+    "createDate": "2019-01-14",
+    "lastModifyDate": "2019-01-14"
+  },
+  "links": {
+    "manual": [
+      "http://www.1.com"
+    ]
+  },
+  "wheels": {
+    "Wheel": {
+      "slots": [
+        {
+          "type": "Closed"
+        },
+        {
+          "type": "Open"
+        },
+        {
+          "type": "AnimationGoboStart"
+        },
+        null,
+        null,
+        {
+          "type": "Closed"
+        },
+        {
+          "type": "Open"
+        },
+        null
+      ]
+    }
+  },
+  "availableChannels": {
+    "Wheel": {
+      "capability": {
+        "type": "WheelSlot",
+        "slotNumberStart": 6.5,
+        "slotNumberEnd": 6
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1",
+      "channels": [
+        "Wheel"
+      ]
+    }
+  ]
+}
