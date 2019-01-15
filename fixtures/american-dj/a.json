@@ -1,0 +1,32 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "a",
+  "shortName": "a",
+  "categories": ["Blinder"],
+  "meta": {
+    "authors": ["1"],
+    "createDate": "2019-01-15",
+    "lastModifyDate": "2019-01-15"
+  },
+  "links": {
+    "manual": [
+      "http://google.com"
+    ]
+  },
+  "availableChannels": {
+    "Red": {
+      "capability": {
+        "type": "ColorIntensity",
+        "color": "Red"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "a",
+      "channels": [
+        "Red"
+      ]
+    }
+  ]
+}
