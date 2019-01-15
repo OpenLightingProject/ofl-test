@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "american-dj/a": {
+      "name": "a",
+      "lastActionDate": "2019-01-15",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,16 +12,25 @@
     }
   },
   "manufacturers": {
+    "american-dj": [
+      "a"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
+    "Blinder": [
+      "american-dj/a"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
     ]
   },
   "contributors": {
+    "1": [
+      "american-dj/a"
+    ],
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
     ]
@@ -31,6 +45,6 @@
     "martin": "#4088bf"
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "american-dj/a"
   ]
 }
