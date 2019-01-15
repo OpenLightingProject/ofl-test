@@ -4,14 +4,26 @@
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
       "lastAction": "modified"
+    },
+    "martin/mac-encore-performance": {
+      "name": "Mac Encore Performance",
+      "lastActionDate": "2019-01-15",
+      "lastAction": "created"
     }
   },
   "manufacturers": {
     "martin": [
-      "atomic-3000-with-atomic-colours"
+      "atomic-3000-with-atomic-colours",
+      "mac-encore-performance"
     ]
   },
   "categories": {
+    "Color Changer": [
+      "martin/mac-encore-performance"
+    ],
+    "Moving Head": [
+      "martin/mac-encore-performance"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
     ]
@@ -19,6 +31,9 @@
   "contributors": {
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Felix Edelmann": [
+      "martin/mac-encore-performance"
     ]
   },
   "rdm": {
@@ -31,6 +46,6 @@
     "martin": "#4088bf"
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "martin/mac-encore-performance"
   ]
 }
