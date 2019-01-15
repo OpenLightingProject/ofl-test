@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "a",
+  "shortName": "a",
+  "categories": ["Effect"],
+  "meta": {
+    "authors": ["ich"],
+    "createDate": "2019-01-15",
+    "lastModifyDate": "2019-01-15"
+  },
+  "links": {
+    "manual": [
+      "http://example.com"
+    ]
+  },
+  "availableChannels": {
+    "Intensity": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1",
+      "channels": [
+        "Intensity"
+      ]
+    }
+  ]
+}
