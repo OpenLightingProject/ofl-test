@@ -1,5 +1,10 @@
 {
   "filesystem": {
+    "adb/test": {
+      "name": "Test",
+      "lastActionDate": "2019-02-02",
+      "lastAction": "created"
+    },
     "martin/atomic-3000-with-atomic-colours": {
       "name": "Atomic 3000 with Atomic Colours",
       "lastModifyDate": "2018-08-08",
@@ -7,11 +12,17 @@
     }
   },
   "manufacturers": {
+    "adb": [
+      "test"
+    ],
     "martin": [
       "atomic-3000-with-atomic-colours"
     ]
   },
   "categories": {
+    "Dimmer": [
+      "adb/test"
+    ],
     "Other": [
       "martin/atomic-3000-with-atomic-colours"
     ]
@@ -19,6 +30,9 @@
   "contributors": {
     "Anonymous": [
       "martin/atomic-3000-with-atomic-colours"
+    ],
+    "Flo Edelmann": [
+      "adb/test"
     ]
   },
   "rdm": {
@@ -31,6 +45,6 @@
     "martin": "#4088bf"
   },
   "lastUpdated": [
-    "martin/atomic-3000-with-atomic-colours"
+    "adb/test"
   ]
 }
