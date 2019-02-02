@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Test",
+  "categories": ["Dimmer"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2019-02-02",
+    "lastModifyDate": "2019-02-02"
+  },
+  "links": {
+    "manual": [
+      "http://example.org"
+    ]
+  },
+  "availableChannels": {
+    "Red": {
+      "capability": {
+        "type": "ColorIntensity",
+        "color": "Red"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Blub",
+      "channels": [
+        "Red"
+      ]
+    }
+  ]
+}
