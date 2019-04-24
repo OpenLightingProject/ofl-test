@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "X",
+  "categories": ["Dimmer"],
+  "meta": {
+    "authors": ["Felix Edelmann"],
+    "createDate": "2019-04-24",
+    "lastModifyDate": "2019-04-24"
+  },
+  "links": {
+    "manual": [
+      "http://localhost:5000/fixture-editor"
+    ]
+  },
+  "availableChannels": {
+    "Dimmer": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Dim",
+      "channels": [
+        "Dimmer"
+      ]
+    }
+  ]
+}
