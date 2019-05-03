@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "A",
+  "shortName": "a",
+  "categories": ["Color Changer"],
+  "meta": {
+    "authors": ["Another Person"],
+    "createDate": "2019-05-03",
+    "lastModifyDate": "2019-05-03"
+  },
+  "links": {
+    "manual": [
+      "http://localhost:5000/fixture-editor"
+    ]
+  },
+  "availableChannels": {
+    "Dimmer": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1",
+      "channels": [
+        "Dimmer"
+      ]
+    }
+  ]
+}
