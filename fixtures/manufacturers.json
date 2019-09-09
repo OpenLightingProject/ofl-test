@@ -3,5 +3,8 @@
     "name": "Martin",
     "website": "http://www.martin.com/",
     "rdmId": 19792
+  },
+  "new-manufacturer": {
+    "name": "New manufacturer"
   }
 }
