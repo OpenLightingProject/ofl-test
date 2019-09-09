@@ -1,0 +1,30 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "Test",
+  "categories": ["Other"],
+  "meta": {
+    "authors": ["Flo Edelmann"],
+    "createDate": "2019-09-09",
+    "lastModifyDate": "2019-09-09"
+  },
+  "links": {
+    "manual": [
+      "https://example.com"
+    ]
+  },
+  "availableChannels": {
+    "Intensity": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "Test",
+      "channels": [
+        "Intensity"
+      ]
+    }
+  ]
+}
