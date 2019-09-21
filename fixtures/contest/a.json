@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "a",
+  "shortName": "c",
+  "categories": ["Flower"],
+  "meta": {
+    "authors": ["Anonymous"],
+    "createDate": "2019-09-21",
+    "lastModifyDate": "2019-09-21"
+  },
+  "links": {
+    "manual": [
+      "http://a.com"
+    ]
+  },
+  "availableChannels": {
+    "2": {
+      "capability": {
+        "type": "NoFunction"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1",
+      "channels": [
+        "2"
+      ]
+    }
+  ]
+}
