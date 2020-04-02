@@ -1,4 +1,8 @@
 {
+  "just-another-manufacturer": {
+    "name": "Just another manufacturer",
+    "comment": "some text"
+  },
   "martin": {
     "name": "Martin",
     "website": "http://www.martin.com/",
