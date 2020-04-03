@@ -1,0 +1,31 @@
+{
+  "$schema": "https://raw.githubusercontent.com/OpenLightingProject/open-fixture-library/master/schemas/fixture.json",
+  "name": "A",
+  "shortName": "b",
+  "categories": ["Dimmer"],
+  "meta": {
+    "authors": ["Felix Edelmann"],
+    "createDate": "2020-04-03",
+    "lastModifyDate": "2020-04-03"
+  },
+  "links": {
+    "manual": [
+      "https://example.com"
+    ]
+  },
+  "availableChannels": {
+    "Intensity": {
+      "capability": {
+        "type": "Intensity"
+      }
+    }
+  },
+  "modes": [
+    {
+      "name": "1ch",
+      "channels": [
+        "Intensity"
+      ]
+    }
+  ]
+}
