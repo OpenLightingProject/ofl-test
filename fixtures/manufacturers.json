@@ -3,5 +3,10 @@
     "name": "Martin",
     "website": "http://www.martin.com/",
     "rdmId": 19792
+  },
+  "showtec": {
+    "name": "Showtec",
+    "website": "https://www.highlite.com/",
+    "rdmId": 10676
   }
 }
